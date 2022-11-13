@@ -1,0 +1,65 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+body {
+  background-color:#B2B2B2 ;
+  color: ;
+  font-family: Sono, monospace;
+  font-size: 20px;
+  line-height: 1.6;
+  font-weight: 700;
+  text-align: center;
+  text-justify: center;
+}
+h1 {
+  color: #0094BE;
+
+}
+h2 {
+  color: #0094BE;
+}
+p {
+  color: #3C4048;
+}
+a {
+  color: #3C4032;
+  text-decoration: none;
+}
+a:hover {
+  color: #0094BE ;
+}
+div {
+  background: #D6E4E5;
+  border: 0px solid black;
+  width: 1000px;
+  margin: 100px auto;
+}
+#MP {
+  width:300px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px #497174;
+}
+.container {background: #EFF5F5;
+padding: 30px;
+border-radius: 4px;
+box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+i {
+  font-size: 60px;
+}
+@media (max-width: 720px){
+  div {
+
+  }
+}
+.banner {
+  background-image: ;
+  background-size: ;
+  background-position: center;
+
+}
+.logo {
+  width:150px;
+  border-radius: 30%;
+  box-shadow: 5px 5px 3px #497174;
+}

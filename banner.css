@@ -1,0 +1,12 @@
+.banner {
+   background-image: url(images/emlv.jpg);
+   color:white;
+   padding: 50px 100px;
+   border-radius: 25%;
+   background-size: cover;
+   background-position: center;
+
+}
+.banner h2{
+  font-weight: lighter;
+}
